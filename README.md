@@ -6,11 +6,13 @@ This project´s idea is to get easy usable libraries for 4 channel relay and LCD
 
 --- With what I develop this project ---
 - New version of ubuntu and relativity fast CPU and 8 Gb memery
+- KDevelop & Arduino IDE
 - Arduino Mega
 - 4 Channel relay module
 - ethernet shield
 - RTC module
 - LCD shield with buttons
+
 
 --- Somekind of vision about this project ------
 
